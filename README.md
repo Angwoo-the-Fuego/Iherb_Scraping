@@ -29,5 +29,5 @@
 ## Arguments
 usage:
 ```text
-python3 run.py [--directory './output'] [—-sleep 1]
+python3 main.py [--directory './output'] [—-sleep 1]
 ```
